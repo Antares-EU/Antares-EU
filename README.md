@@ -17,7 +17,7 @@
 
 ###
 
-<h5 align="center">🔭 I’m currently working on **my Company (Alterra Developments)**<br><br>🌱 I’m currently learning **Netty, TensorFlow, Spring, Vaadin**<br><br>🤝 I’m looking for help with **Cloud Programming servers based on Netty**<br><br>💬 Ask me about **Java, Network Security, Firewalls**<br><br>📫 How to reach me **info@projectalterra.com**</h5>
+<h5 align="center">🔭 I’m currently working on my Company (Alterra Developments)<br><br>🌱 I’m currently learning Netty, TensorFlow, Spring, Vaadin<br><br>🤝 I’m looking for help with Cloud Programming servers based on Netty<br><br>💬 Ask me about Java, Network Security, Firewalls<br><br>📫 How to reach me info@projectalterra.com</h5>
 
 ###
 
