@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm GalaxyEater</h2>
+<h2 align="center">Hi 👋, I'm Antares</h2>
 
 ###
 
